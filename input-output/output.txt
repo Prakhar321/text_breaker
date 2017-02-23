@@ -1,0 +1,1728 @@
+All ppts
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails regarding Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails with subject as Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails on citrix which contains a pdf named ABC.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf,pdf
+Attachment Size: Any
+Attachment Name: abc abc 
+Subject: citrix 
+CC: Any
+
+ABC.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Mails from Ravi
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Received attachments
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails with attachments of size 2MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Yesterday's mails
+From: Any
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: yesterday 
+CC: Any
+
+Mails about Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+All mails sent by Ravi with attachments
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails about Citrix with Audio
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: mp3,audio
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+CC�d attachments from last week
+From: Any
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: 
+
+ABC.pdf sent by Harshith 
+From: harshith
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+All Vineet's mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: vineet 
+CC: Any
+
+My mails
+From: Any
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails received from Uday with attachments
+From: uday
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails about Demonetization CC'd to Uday
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: demonetization 
+CC: uday
+
+Last month's mails with PDF's 
+From: Any
+To: Any
+From Date: today - 1 month
+To Date: today
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: last month 
+CC: Any
+
+Attachments with name ABC
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Mails sent by Ravi CC to Harshith 
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+PDFs sent to Harshith with size less than 100KB
+From: Any
+To: harshith
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: 100kb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Videos sent by Ravi to Neha CC to me in the past 5 days 
+From: ravi
+To: neha
+From Date: today - 5 days
+To Date: today
+Has Attachment: YES
+Attachment Type: videos
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails from last year
+From: Any
+To: Any
+From Date: today - 1 year
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mail with subject as Sports Tournament
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: sports tournament 
+CC: Any
+
+All mails with audio
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: mp3,audio
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Ravi's mails 
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: ravi 
+CC: Any
+
+Ravi's attachments
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Citrix mails from Neha
+From: neha
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails from day before yesterday
+From: day
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails from Neha to Ravi CC'd to me
+From: neha
+To: ravi
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails with attachment size less than 10MB CC to Neha
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 10mb
+Attachment Name: Any
+Subject: Any
+CC: neha
+
+Discussions about Tamil Nadu Politics
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: tamil nadu politics 
+CC: Any
+
+Video's I got from Ravi
+From: ravi
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: video
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails I received about Neural Networks CC'd to Harshith
+From: Any
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: neural networks 
+CC: harshith
+
+Neural networks ppts
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: neural networks 
+Subject: Any
+CC: Any
+
+Mails from Ravi  CC to Vineet
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: vineet
+
+Mails sent to Ravi CC Vineet
+From: Any
+To: ravi
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: vineet 
+
+PDFs Ravi sent to Vineet CC'd to me
+From: ravi
+To: vineet
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Today's mails with PPTs
+From: Any
+To: Any
+From Date: today
+To Date: today
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: Any
+Subject: today 
+CC: Any
+
+PDFs Samhith sent yesterday
+From: samhith
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+PDFs which were sent to Samhith 3 days ago
+From: Any
+To: samhith
+From Date: today - 3 days
+To Date: today - 3 days
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails from harshith@citrix.com 
+From: harshith
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+IIT-BHU mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: iit bhu 
+CC: Any
+
+Mails with attachments of size 2MB sent by BNR last week
+From: bnr
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails with PDFs greater than 2MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Leave mails to Vineet
+From: Any
+To: vineet
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: leave 
+CC: Any
+
+Mails by bnrao@gmail.com on MultiLabel Classification
+From: bnrao
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: multilabel classification 
+CC: Any
+
+Ananth's PPTs
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: ananth 
+Subject: Any
+CC: Any
+
+Mails sent by bnrao@gmail.com last 30 days
+From: bnrao
+To: Any
+From Date: today - 30 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails in which Harshith was CC'd
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+Pdf attached mails in which Harshith was CC'd
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+All mails on Data Mining sent by BNR last week 
+From: bnr
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: data 
+CC: Any
+
+BNR's last 30 days mails
+From: Any
+To: Any
+From Date: today - 30 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: bnr last 30 days 
+CC: Any
+
+Uday's leave mail
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+attachments > 9MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 9mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+less than 7MB attachements
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+NLP mails with 10MB videos Harshith sent to Vineet since yesterday CC'd to me
+From: harshith
+To: vineet
+From Date: yesterday
+To Date: today
+Has Attachment: YES
+Attachment Type: videos
+Attachment Size: 10mb
+Attachment Name: Any
+Subject: nlp 
+CC: me
+
+Mails from Uday
+From: uday
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All Vineet's mails about Data Analytics with PDF's named Google.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf,pdf
+Attachment Size: Any
+Attachment Name: google google 
+Subject: vineet data analytics 
+CC: Any
+
+From.pdf Neha sent yesterday
+From: neha
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All mails Harshith sent for the last 3 days
+From: harshith
+To: Any
+From Date: today - 3 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Harshith's last week mails regarding iPhone
+From: Any
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: harshith last week iphone 
+CC: Any
+
+All ppts
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails regarding Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails with subject as Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails on citrix which contains a pdf named ABC.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf,pdf
+Attachment Size: Any
+Attachment Name: abc abc 
+Subject: citrix 
+CC: Any
+
+ABC.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Mails from Ravi
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Received attachments
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails with attachments of size 2MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Yesterday's mails
+From: Any
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: yesterday 
+CC: Any
+
+Mails about Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+All mails sent by Ravi with attachments
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails about Citrix with Audio
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: mp3,audio
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+CC�d attachments from last week
+From: Any
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: 
+
+ABC.pdf sent by Harshith 
+From: harshith
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+All Vineet's mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: vineet 
+CC: Any
+
+My mails
+From: Any
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails received from Uday with attachments
+From: uday
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails about Demonetization CC'd to Uday
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: demonetization 
+CC: uday
+
+Last month's mails with PDF's 
+From: Any
+To: Any
+From Date: today - 1 month
+To Date: today
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: last month 
+CC: Any
+
+Attachments with name ABC
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Mails sent by Ravi CC to Harshith 
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+PDFs sent to Harshith with size less than 100KB
+From: Any
+To: harshith
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: 100kb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Videos sent by Ravi to Neha CC to me in the past 5 days 
+From: ravi
+To: neha
+From Date: today - 5 days
+To Date: today
+Has Attachment: YES
+Attachment Type: videos
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails from last year
+From: Any
+To: Any
+From Date: today - 1 year
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mail with subject as Sports Tournament
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: sports tournament 
+CC: Any
+
+All mails with audio
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: mp3,audio
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Ravi's mails 
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: ravi 
+CC: Any
+
+Ravi's attachments
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Citrix mails from Neha
+From: neha
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+Mails from day before yesterday
+From: day
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails from Neha to Ravi CC'd to me
+From: neha
+To: ravi
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails with attachment size less than 10MB CC to Neha
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 10mb
+Attachment Name: Any
+Subject: Any
+CC: neha
+
+Discussions about Tamil Nadu Politics
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: tamil nadu politics 
+CC: Any
+
+Video's I got from Ravi
+From: ravi
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: video
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails I received about Neural Networks CC'd to Harshith
+From: Any
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: neural networks 
+CC: harshith
+
+Neural networks ppts
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: neural networks 
+Subject: Any
+CC: Any
+
+Mails from Ravi  CC to Vineet
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: vineet
+
+Mails sent to Ravi CC Vineet
+From: Any
+To: ravi
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: vineet 
+
+PDFs Ravi sent to Vineet CC'd to me
+From: ravi
+To: vineet
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Today's mails with PPTs
+From: Any
+To: Any
+From Date: today
+To Date: today
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: Any
+Subject: today 
+CC: Any
+
+PDFs Samhith sent yesterday
+From: samhith
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+PDFs which were sent to Samhith 3 days ago
+From: Any
+To: samhith
+From Date: today - 3 days
+To Date: today - 3 days
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails from harshith@citrix.com 
+From: harshith
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+IIT-BHU mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: iit bhu 
+CC: Any
+
+Mails with attachments of size 2MB sent by BNR last week
+From: bnr
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails with PDFs greater than 2MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: 2mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Leave mails to Vineet
+From: Any
+To: vineet
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: leave 
+CC: Any
+
+Mails by bnrao@gmail.com on MultiLabel Classification
+From: bnrao
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: multilabel classification 
+CC: Any
+
+Ananth's PPTs
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: ananth 
+Subject: Any
+CC: Any
+
+Mails sent by bnrao@gmail.com last 30 days
+From: bnrao
+To: Any
+From Date: today - 30 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Mails in which Harshith was CC'd
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+Pdf attached mails in which Harshith was CC'd
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: harshith
+
+All mails on Data Mining sent by BNR last week 
+From: bnr
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: data 
+CC: Any
+
+BNR's last 30 days mails
+From: Any
+To: Any
+From Date: today - 30 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: bnr last 30 days 
+CC: Any
+
+Uday's leave mail
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All mails
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+attachments > 9MB
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 9mb
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+less than 7MB attachements
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+NLP mails with 10MB videos Harshith sent to Vineet since yesterday CC'd to me
+From: harshith
+To: vineet
+From Date: yesterday
+To Date: today
+Has Attachment: YES
+Attachment Type: videos
+Attachment Size: 10mb
+Attachment Name: Any
+Subject: nlp 
+CC: me
+
+Mails from Uday
+From: uday
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All Vineet's mails about Data Analytics with PDF's named Google.pdf
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf,pdf
+Attachment Size: Any
+Attachment Name: google google 
+Subject: vineet data analytics 
+CC: Any
+
+From.pdf Neha sent yesterday
+From: neha
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All mails Harshith sent for the last 3 days
+From: harshith
+To: Any
+From Date: today - 3 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Harshith's last week mails regarding iPhone
+From: Any
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: harshith last week iphone 
+CC: Any
+
+10 mega bytes PDF files
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: bytes 
+Subject: Any
+CC: Any
+
+Leave mails sent to Vineet CC Uday
+From: Any
+To: vineet
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: leave 
+CC: uday 
+
+Subject:Citrix
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+PDF files Neha sent yesterday
+From: neha
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+PDF files on Algorithms which were sent by Neha yesterday
+From: neha
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: algorithms 
+CC: Any
+
+Neha's ABC.pdf file
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+Hackathon files
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: Any
+
+All mails with DOCs called XYZ
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: docs
+Attachment Size: Any
+Attachment Name: xyz 
+Subject: Any
+CC: Any
+
+Mails with subject as Applied Machine Learning with attached PDF's of 1MB size
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdf
+Attachment Size: 1mb
+Attachment Name: attached 
+Subject: applied machine learning 
+CC: Any
+
+Attachments sent by Ravi named ABC
+From: ravi
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Yesterday's discussions about Parsers
+From: Any
+To: Any
+From Date: yesterday
+To Date: yesterday
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: parsers 
+CC: Any
+
+Last week's mails received from Uday
+From: uday
+To: Any
+From Date: today - 1 week
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: last week 
+CC: Any
+
+All attachments called ABC
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: abc 
+Subject: Any
+CC: Any
+
+Mails from Vineet to Uday I was CC'd in
+From: vineet
+To: uday
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails from Vineet to me and Uday was CC'd in
+From: vineet
+To: me
+From Date: Any
+To Date: Any
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: uday
+
+Mails Uday was CC'd in with attachments
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: uday
+
