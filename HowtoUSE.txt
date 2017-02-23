@@ -1,0 +1,4 @@
+1. Android app have a simple EditText in it's first page.
+2. You've to write you query in edittext & press  tag.
+3. resulted output will be shown below the button.
+4. You can try any number of queries with the same process.
