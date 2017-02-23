@@ -326,17 +326,17 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i < words.size(); i++) {
             //Sender
             if (words.get(i).equals("from") || words.get(i).equals("by")) {
-                if ((tags.get(i + 1).equals("NN") || tags.get(i + 1).equals("NNP") ||
+                if (i+1<words.size() && (tags.get(i + 1).equals("NN") || tags.get(i + 1).equals("NNP") ||
                         tags.get(i + 1).equals("IN") || words.get(i+1).equals("me")) && !words.get(i+1).equals("yesterday"))
                     fro = words.get(i + 1);
             }
             if (words.get(i).length() >= 2 && words.get(i).substring(words.get(i).length() - 2, words.get(i).length()).equals("\'s"))
                 fro = words.get(i).substring(0, words.get(i).length() - 2);
             //to or cc'd to
-            if (words.get(i).equals("to") && !(tags.get(i + 1).equals("CD"))) {
+            if (i+1 < words.size() && words.get(i).equals("to") && !(tags.get(i + 1).equals("CD"))) {
                 if (i > 0 && !words.get(i - 1).equals("cc") && !words.get(i - 1).equals("cc\'d"))
                     to = words.get(i + 1);
-                else
+                else if (i+1<words.size())
                     cc = words.get(i + 1);
             }
             //cc'd in
@@ -361,7 +361,7 @@ public class MainActivity extends AppCompatActivity {
                     j -= 1;
                 }*/
                 int j = i + 1;
-                while (j-i < 3) {
+                while (j-i < 3 && j< words.size()) {
                     if (tags.get(j).equals("CD"))
                         att_s = words.get(j);
                     j += 1;
@@ -412,10 +412,10 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
             //Date
-            if (words.get(i).equals("from") && tags.get(i + 1).equals("CD")) {
+            if (i+1 < words.size() && words.get(i).equals("from") && tags.get(i + 1).equals("CD")) {
                 frd = words.get(i + 1);
             }
-            if (words.get(i).equals("to") && tags.get(i + 1).equals("CD"))
+            if (i+1 < words.size() && words.get(i).equals("to") && tags.get(i + 1).equals("CD"))
                 tod = words.get(i + 1);
             if (words.get(i).equals("yesterday")) {
                 frd = words.get(i);
@@ -429,7 +429,7 @@ public class MainActivity extends AppCompatActivity {
             }
             //Date Range
             if (words.get(i).equals("last") || words.get(i).equals("past")) {
-                if (tags.get(i + 1).equals("CD")) {
+                if (i+1 < words.size() && tags.get(i + 1).equals("CD")) {
                     frd = "today - " + words.get(i + 1) + " " + words.get(i + 2);
                     tod = "today";
                 } else {
