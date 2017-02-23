@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
@@ -327,8 +326,8 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i < words.size(); i++) {
             //Sender
             if (words.get(i).equals("from") || words.get(i).equals("by")) {
-                if (tags.get(i + 1).equals("NN") || tags.get(i + 1).equals("NNP") ||
-                        tags.get(i + 1).equals("IN") || words.get(i+1).equals("me"))
+                if ((tags.get(i + 1).equals("NN") || tags.get(i + 1).equals("NNP") ||
+                        tags.get(i + 1).equals("IN") || words.get(i+1).equals("me")) && !words.get(i+1).equals("yesterday"))
                     fro = words.get(i + 1);
             }
             if (words.get(i).length() >= 2 && words.get(i).substring(words.get(i).length() - 2, words.get(i).length()).equals("\'s"))
@@ -362,7 +361,7 @@ public class MainActivity extends AppCompatActivity {
                     j -= 1;
                 }*/
                 int j = i + 1;
-                while (j < words.size()) {
+                while (j-i < 3) {
                     if (tags.get(j).equals("CD"))
                         att_s = words.get(j);
                     j += 1;
@@ -407,6 +406,7 @@ public class MainActivity extends AppCompatActivity {
             if (subss.contains(words.get(i))) {
                 int j = i + 1;
                 while (j < words.size() && (tags.get(j).equals("NNS") || tags.get(j).equals("NN") || tags.get(j).equals("JJ"))) {
+                   if(!attas.contains(words.get(j)))
                     sub += words.get(j) + " ";
                     j += 1;
                 }
@@ -447,10 +447,11 @@ public class MainActivity extends AppCompatActivity {
                     tod = frd;
                 }
             }
+            //cc
             if (words.get(i).equals("cc")) {
                 int j = i + 1;
                 cc = "";
-                while (j < words.size() && tags.get(j).equals("NN")) {
+                while (j < words.size() && (tags.get(j).equals("NN")||tags.get(j).equals("PRP"))) {
                     cc += words.get(j) + " ";
                     j += 1;
                 }
@@ -470,8 +471,11 @@ public class MainActivity extends AppCompatActivity {
 
         //cc'd or cc
         if (words.contains("cc") && (cc.equals("Any") || cc.isEmpty()))
+        {
             if(words.indexOf("cc")>0)
-            cc = words.get(words.indexOf("cc") - 1);//Attachment
+            cc = words.get(words.indexOf("cc") - 1);
+        }
+            //Attachment
         if (!att_ty.equals("Any"))
             att_ty = att_ty.substring(4, att_ty.length());
         if(cc.equals("i"))
@@ -498,7 +502,7 @@ public class MainActivity extends AppCompatActivity {
                     "Has Attachment: " + has_att + "\n" + "Attachment Type: " + att_ty + "\n" + "Attachment Size: " + att_s + "\n" + "Attachment Name: " +
                     att_n + "\n" + "Subject: " + sub + "\n" + "CC: " + cc + "\n\n";
 
-        try {
+        /*try {
             fout.write(output.getBytes());
 
             Toast.makeText(this, ++cnt + "", Toast.LENGTH_SHORT).show();
@@ -520,6 +524,6 @@ public class MainActivity extends AppCompatActivity {
             }
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
         }
     }
