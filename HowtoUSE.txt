@@ -2,4 +2,4 @@
 2. You've to write your query in edittext & press  tag.
 3. resulted output will be shown below the button.
 4. You can try any number of queries with the same process.
-5. App requires internet connectivity part-of-specch tagging.
+5. App requires internet connectivity for part-of-specch tagging.
