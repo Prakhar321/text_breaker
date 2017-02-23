@@ -1,1 +1,120 @@
-citrix mail from last 2 days to ravi cc prakhar
+Mails regarding music from me to Ravi having audio > 5 mb cc Neha
+From: me
+To: ravi
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: mp3,audio
+Attachment Size: 5
+Attachment Name: Any
+Subject: music 
+CC: neha 
+
+Citrix mails from last 2 days to Ravi cc Prakhar 
+From: Any
+To: ravi
+From Date: today - 2 days
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: citrix 
+CC: prakhar 
+
+Engineering mails from 2ndFeb to 21stOct cc Director
+From: Any
+To: Any
+From Date: 2ndfeb
+To Date: 21stoct
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: engineering 
+CC: director 
+
+Discussions about Politics with ppts from last 4 days cc me
+From: Any
+To: Any
+From Date: today - 4 days
+To Date: today
+Has Attachment: YES
+Attachment Type: ppts
+Attachment Size: Any
+Attachment Name: Any
+Subject: politics 
+CC: me 
+
+Attachments with name XYZ about internet from past 5 weeks
+From: Any
+To: Any
+From Date: today - 5 weeks
+To Date: today
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: xyz 
+Subject: internet 
+CC: Any
+
+PDFs to Neha cc'd to me having attachments < 3mb from yesterday 
+From: Any
+To: neha
+From Date: yesterday
+To Date: yesterday
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: 3mb
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Mails I was cc'd in with videos
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: videos
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me
+
+Subject:Citrix attachments size < 20 megabytes
+From: Any
+To: Any
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: Any
+Attachment Size: 20
+Attachment Name: Any
+Subject: citrix 
+CC: Any
+
+All mails which cc'd me from last 2 weeks
+From: Any
+To: Any
+From Date: today - 2 weeks
+To Date: today
+Has Attachment: Any
+Attachment Type: Any
+Attachment Size: Any
+Attachment Name: Any
+Subject: Any
+CC: me 
+
+HOD's mails from me to Neha having pdfs name as urgent
+From: me
+To: neha
+From Date: Any
+To Date: Any
+Has Attachment: YES
+Attachment Type: pdfs
+Attachment Size: Any
+Attachment Name: urgent 
+Subject: hod 
+CC: Any
+
